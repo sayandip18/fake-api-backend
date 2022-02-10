@@ -1,0 +1,19 @@
+{
+  "name": "fake-api",
+  "version": "1.0.0",
+  "description": "Fake REST api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sayandip18/fake-api-backend.git"
+  },
+  "author": "Sayandip Halder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayandip18/fake-api-backend/issues"
+  },
+  "homepage": "https://github.com/sayandip18/fake-api-backend#readme"
+}
