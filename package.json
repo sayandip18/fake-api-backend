@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sayandip18/fake-api-backend/issues"
   },
-  "homepage": "https://github.com/sayandip18/fake-api-backend#readme"
+  "homepage": "https://github.com/sayandip18/fake-api-backend#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
 }
